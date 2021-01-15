@@ -1,3 +1,6 @@
+![.github/workflows/test.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/test.yml/badge.svg)
+![.github/workflows/test.yml](https://raw.githubusercontent.com/akevalion/Roassal3/badges/master/test-badge.svg)
+
 # Roassal3
 [![Build Status](https://travis-ci.org/ObjectProfile/Roassal3.svg?branch=master)](https://travis-ci.org/ObjectProfile/Roassal3)
 
@@ -7,7 +10,7 @@ Roassal3 is free and open source, but backed by Object Profile. Commercial suppo
 
 
 ## Pharo Installations
-Roassal3 is included in Pharo 9. This means that you do not need to install anything else. Pharo 9 contains Roassal 0.9.4. 
+Roassal3 is included in Pharo 9. This means that you do not need to install anything else. Pharo 9 contains Roassal 0.9.4.
 Two instalation flavors are available: stable and latest (a.k.a bleeding-edge).
 
 ### Stable version
@@ -112,4 +115,3 @@ _____
 
 Roassal3 is a community effort, and we are really grateful to a number of people. In no particular order, big thanks to:
 Stéphane Ducasse, Martin Días, Pavel Krivanek
-
