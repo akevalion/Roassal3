@@ -1,6 +1,8 @@
 ![.github/workflows/test.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/test.yml/badge.svg)
 ![.github/workflows/test.yml](https://raw.githubusercontent.com/akevalion/Roassal3/badges/master/test-badge.svg)
 
+[![GitHub Workflow Status][github_action_b]][github_action_url] [![Travis CI Status][travis_b]][travis_url] [![AppVeyor Status][appveyor_b]][appveyor_url] [![Docker Build Status][docker_b]][docker_url] [![Coverage Status][coveralls_b]][coveralls_url]
+
 # Roassal3
 [![Build Status](https://travis-ci.org/ObjectProfile/Roassal3.svg?branch=master)](https://travis-ci.org/ObjectProfile/Roassal3)
 
