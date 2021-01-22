@@ -1,4 +1,4 @@
-![.github/workflows/test.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/test.yml/badge.svg)
+![.github/workflows/test.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/text.yml/badge.svg)
 ![.github/workflows/test.yml](https://raw.githubusercontent.com/akevalion/Roassal3/master/.github/badges/test-badge.svg)
 
 [![Build Status](https://github.com/akevalion/Roassal3/.github/badges/test-badge.svg)](https://github.com/akevalion/Roassal3/actions)
