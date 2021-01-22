@@ -1,4 +1,4 @@
-[![.github/workflows/text.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/text.yml/badge.svg)]https://github.com/akevalion/Roassal3/actions
+[![.github/workflows/text.yml](https://github.com/akevalion/Roassal3/workflows/.github/workflows/text.yml/badge.svg)](https://github.com/akevalion/Roassal3/actions)
 ![.github/workflows/text.yml](https://raw.githubusercontent.com/akevalion/Roassal3/master/.github/badges/test-badge.svg)
 
 # Roassal3
