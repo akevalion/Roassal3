@@ -71,6 +71,7 @@ jobs:
           if-no-files-found: error
 
       - name: Commit badge
+        continue-on-error: true
         env:
           BADGE: ${{ steps.coverage.outputs.path }}
         run: |
