@@ -43,11 +43,6 @@ jobs:
           BADGE_PATH: .github/badges/test-badge.svg
           BRANCH: badges
 
-      #- uses: actions/checkout@v1
-      #  with:
-      #    ref: ${{ steps.coverage.outputs.branch }}
-
-      # Create the directory where badges will be saved, if needed
       - name: Create destination directory
         env:
           BADGE_PATH: ${{ steps.coverage.outputs.path }}
