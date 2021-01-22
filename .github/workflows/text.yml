@@ -43,7 +43,7 @@ jobs:
           BADGE_PATH: .github/badges/test-badge.svg
           BRANCH: badges
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v1
         with:
           ref: ${{ steps.coverage.outputs.branch }}
 
