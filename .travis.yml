@@ -36,6 +36,3 @@ matrix:
       - smalltalk: Pharo64-9.0
         smalltalk_config: .smalltalk_pharo9.ston
         os: linux
-
-script: "sbt clean coverage test"
-after_success: "sbt coveralls"
