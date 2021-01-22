@@ -11,7 +11,7 @@ smalltalk:
 
 matrix:
   fast_finish: true
-  include: 
+  include:
       - smalltalk: Pharo64-8.0
         smalltalk_config: .smalltalk.ston
         os: osx
@@ -36,3 +36,6 @@ matrix:
       - smalltalk: Pharo64-9.0
         smalltalk_config: .smalltalk_pharo9.ston
         os: linux
+
+script: "sbt clean coverage test"
+after_success: "sbt coveralls"
