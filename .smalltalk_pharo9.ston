@@ -7,7 +7,7 @@ SmalltalkCISpec {
       #load : [ 'Core', 'Tests' ],
       #platforms : [ #pharo ]
     }
-  ]
+  ],
   #testing : {
     #coverage : {
       #packages : [ 'Roassal3*' ]
