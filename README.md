@@ -1,5 +1,5 @@
 [![.github/workflows/text.yml](https://github.com/akevalion/Roassal3/workflows/CI/badge.svg)](https://github.com/akevalion/Roassal3/actions)
-![.github/workflows/text.yml](https://raw.githubusercontent.com/akevalion/Roassal3/master/.github/badges/test-badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/akevalion/Roassal3/badge.svg?branch=master)](https://coveralls.io/github/akevalion/Roassal3?branch=master)
 
 # Roassal3
 [![Build Status](https://travis-ci.org/ObjectProfile/Roassal3.svg?branch=master)](https://travis-ci.org/ObjectProfile/Roassal3)
