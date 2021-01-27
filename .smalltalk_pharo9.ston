@@ -8,4 +8,9 @@ SmalltalkCISpec {
       #platforms : [ #pharo ]
     }
   ]
+  #testing : {
+    #coverage : {
+      #packages : [ 'Roassal3*' ]
+    }
+  }
 }
